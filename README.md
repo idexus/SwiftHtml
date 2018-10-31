@@ -67,7 +67,7 @@ let page = {
 }
 ```
 
-### Dynamic HTML generation with a closure
+### Dynamic HTML generation with closures
 
 Use a `$0` parameter and an `+=` operator to add tags to the `Array` inside a closure.
 
