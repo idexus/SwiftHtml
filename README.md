@@ -69,7 +69,7 @@ let page = {
 
 ### Dynamic HTML generation with a closure
 
-Use a `$0` parameter and an operator `+=` to add tags to the `Array` inside a closure.
+Use a `$0` parameter and an `+=` operator to add tags to the `Array` inside a closure.
 
 ```swift
 $0 += Tag.tr()
