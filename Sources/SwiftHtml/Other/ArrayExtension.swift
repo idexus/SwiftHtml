@@ -1,5 +1,5 @@
 //
-//  ArrayExtensionn.swift
+//  ArrayExtension.swift
 //  SwiftHtml
 //
 //  Created by Pawel Krzywdzinski on 29/10/2018.
